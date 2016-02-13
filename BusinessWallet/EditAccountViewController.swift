@@ -27,7 +27,7 @@ class EditAccountViewController: UIViewController,UIPickerViewDelegate, UIPicker
         
         
      // تغيير طول ال scroll view
-        EditAccountScrollView.contentSize.height=1320
+        EditAccountScrollView.contentSize.height=1350
         
         
         // لتنفيذ ال picker تابعة للكلاسين اللي أضفناها فوق
